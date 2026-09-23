@@ -93,6 +93,7 @@ folder:
 cd "c:\Users\A2IN\OneDrive\Desktop\Python Assignment -2026\fastbox-delivery-system"
 python delivery_system.py test_cases/test_case_1.json test_report_1.json
 ```
+Similarly, we can use the above command for other test cases as well. In this project i have checked and stored reports of only test_case_1,test_case_2 and test_case_3 and its report are also stores as test_report_1 and so on.
 
 ## Technologies used
 
