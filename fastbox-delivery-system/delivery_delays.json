@@ -1,0 +1,64 @@
+{
+  "A1": [],
+  "A2": [
+    {
+      "package_id": "P1",
+      "warehouse": "W5",
+      "delay_minutes": 20
+    },
+    {
+      "package_id": "P3",
+      "warehouse": "W5",
+      "delay_minutes": 3
+    }
+  ],
+  "A3": [
+    {
+      "package_id": "P4",
+      "warehouse": "W1",
+      "delay_minutes": 0
+    },
+    {
+      "package_id": "P8",
+      "warehouse": "W4",
+      "delay_minutes": 23
+    },
+    {
+      "package_id": "P10",
+      "warehouse": "W1",
+      "delay_minutes": 8
+    }
+  ],
+  "A4": [
+    {
+      "package_id": "P2",
+      "warehouse": "W3",
+      "delay_minutes": 7
+    },
+    {
+      "package_id": "P5",
+      "warehouse": "W3",
+      "delay_minutes": 7
+    },
+    {
+      "package_id": "P6",
+      "warehouse": "W3",
+      "delay_minutes": 4
+    },
+    {
+      "package_id": "P7",
+      "warehouse": "W3",
+      "delay_minutes": 23
+    },
+    {
+      "package_id": "P9",
+      "warehouse": "W3",
+      "delay_minutes": 3
+    },
+    {
+      "package_id": "P11",
+      "warehouse": "W3",
+      "delay_minutes": 21
+    }
+  ]
+}
