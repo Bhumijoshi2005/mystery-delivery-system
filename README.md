@@ -90,6 +90,7 @@ To run one of the extra test cases, I use its path inside the `test_cases`
 folder:
 
 ```text
+cd "c:\Users\A2IN\OneDrive\Desktop\Python Assignment -2026\fastbox-delivery-system"
 python delivery_system.py test_cases/test_case_1.json test_report_1.json
 ```
 
